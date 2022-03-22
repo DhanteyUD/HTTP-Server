@@ -115,6 +115,7 @@ const server = http.createServer((req, res) => {
         }
       }
       break;
+    default:
       res.writeHead(404, { 'Content-Type': 'application/json' });
       res.end(JSON.stringify({ message: 'Data not Found :-(' }));
   }
