@@ -1,4 +1,4 @@
-## HTTP Server - Vanilla Node REST API
+## Node REST API
 
 > Full CRUD REST API using Node.js with no framework.
 
@@ -12,6 +12,7 @@ PUT      /database/update/id
 DELETE   /database/delete/id
 
 ```
+> The database.json file is dynamically created along with the data directory (if the file doesn't exist before production)
 
 ## Usage
 
