@@ -12,6 +12,7 @@ PUT      /database/update/id
 DELETE   /database/delete/id
 
 ```
+> The database.json file is dynamically created along with the data directory (if the file doesn't exist before production)
 
 ## Usage
 
