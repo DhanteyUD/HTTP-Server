@@ -6,7 +6,7 @@ This is for learning/experimental purposes.
 
 ```
 # Routes
-GET      /read
+GET      /
 POST     /create
 PUT      /data/update/id
 DELETE   /data/delete/id
