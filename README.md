@@ -8,8 +8,8 @@ This is for learning/experimental purposes.
 # Routes
 GET      /read
 POST     /create
-PUT      /database/update/id
-DELETE   /database/delete/id
+PUT      /data/update/id
+DELETE   /data/delete/id
 
 ```
 
